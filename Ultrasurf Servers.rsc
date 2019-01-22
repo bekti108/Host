@@ -153,3 +153,27 @@ add list=ultra address=216.224.64.0/19
 add list=ultra address=216.224.64.0/21
 add list=ultra address=216.229.96.0/20
 add list=ultra address=216.252.162.0/24
+#anonymox
+add list=anonymox add=206.190.158.78
+add list=anonymox add=206.190.158.75
+add list=anonymox add=159.253.145.150
+add list=anonymox add=146.185.31.214
+add list=anonymox add=37.130.229.149
+add list=anonymox add=66.85.139.243
+add list=anonymox add=66.85.139.244
+add list=anonymox add=206.190.158.72
+add list=anonymox add=146.185.31.221
+add list=anonymox add=146.185.31.213
+add list=anonymox add=66.85.139.246
+add list=anonymox add=23.235.227.104/29
+add list=anonymox add=176.9.204.144/28
+add list=anonymox add=146.185.31.212
+add list=anonymox add=37.130.229.150
+add list=anonymox add=95.211.226.56
+add list=anonymox add=176.9.251.0/28
+add list=anonymox add=95.211.185.41
+add list=anonymox add=146.185.28.58
+add list=anonymox add=209.95.56.53
+add list=anonymox add=209.95.56.51
+add list=anonymox add=146.185.28.59
+add list=anonymox add=146.185.28.57
